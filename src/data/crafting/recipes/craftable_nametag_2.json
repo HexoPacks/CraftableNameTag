@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " IT",
+        " LI",
+        "L  "
+    ],
+    "key": {
+        "T": {
+            "item": "minecraft:tripwire_hook"
+        },
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:name_tag",
+        "count": 1
+    }
+}
